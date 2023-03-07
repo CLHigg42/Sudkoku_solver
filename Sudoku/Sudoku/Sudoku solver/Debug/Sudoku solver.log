@@ -1,0 +1,4 @@
+﻿  Sudoku.cpp
+C:\Users\Casey\Desktop\Sudoku\Sudoku solver\Sudoku.h(25,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Casey\Desktop\Sudoku\Sudoku solver\Sudoku.h(52,47): warning C4390: ';': empty controlled statement found; is this the intent?
+  Sudoku solver.vcxproj -> C:\Users\Casey\Desktop\Sudoku\Sudoku solver\Debug\Sudoku solver.exe

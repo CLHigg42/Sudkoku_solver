@@ -1,0 +1,2 @@
+C:\Users\Casey\Desktop\Sudoku\Sudoku solver\Debug\Sudoku solver.exe
+C:\Users\Casey\Desktop\Sudoku\Sudoku solver\Debug\Sudoku solver.pdb
