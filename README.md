@@ -5,4 +5,4 @@
 ### Background
 
 This project was built to showcase ability in c++ to be able to traverse multidimentional arrays,
-process information, and then output new informatiion onto another array.
+process information, and then output new informatiion onto an alternate array to display the data.
